@@ -1,8 +1,8 @@
 # ConwayGameOfLife             
 
 •	This is GAME OF LIFE. Created in 1970 by John Conway. It is implemented/played on infinte grid of square cells each of which has 2 states at a single given point :- alive or dead. Beside this there are only 3 rules :                        
-1.	Birth Rule: An empty, or “dead”, cell with precisely 3 “live” neighbors (full cells) becomes live                      
-2.	Death Rule: A live cell with 0 or 1 neighbors dies of isolation, a live cell with 4 or more neighbors dies of overcrowding                    
+1.	Birth Rule: An empty, or “dead”, cell with precisely 3 “live” neighbors (full cells) becomes live.                      
+2.	Death Rule: A live cell with 0 or 1 neighbors dies of isolation, a live cell with 4 or more neighbors dies of overcrowding.                    
 3.	Survival Rule:  A live cell with 2 or 3 neighbors remains alive.                  
                        
 •	With each iteration, some cells live, some die and “life-forms” evolve, one  generation to the next.      
