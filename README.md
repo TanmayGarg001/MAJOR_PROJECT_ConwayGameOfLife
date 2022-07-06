@@ -13,4 +13,4 @@
                         
 •	Now by seeing a pattern we can’t predict that what would happen to it, it is impossible to answer. So it is UNDICEDABLE ,hence there is no algorithm that is guaranteed to answer the question in finite time. We could of course run the pattern itself but still we won’t be able to tell if the pattern will stop after 1000years or 1million years there is no certainity. It is TURING COMPLETE.                  
                  
-
+https://github.com/TanmayGarg001/MAJOR_PROJECT_ConwayGameOfLife/issues/1#issue-1295446109
